@@ -269,7 +269,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   buttonA: {fileID: 1043795061}
-  nextPressure: 0
+  isPressed: 0
 --- !u!1 &637214709
 GameObject:
   m_ObjectHideFlags: 0
